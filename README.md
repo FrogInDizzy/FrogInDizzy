@@ -18,7 +18,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([http://lnkiy.in/Ahmed_Hossam_Resume](https://www.overleaf.com/project/67d795d01ff1f99a92145e18)).
 - 📫 Reach out to me at: <a href="wgao11@u.rochester.edu">wgao11@u.rochester.edu</a>
 
 <br>
