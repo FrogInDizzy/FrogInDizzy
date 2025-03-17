@@ -14,17 +14,17 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake Contributions
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
-          github_user_name: FrogInDizzy 
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: FrogInDizzy  
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push Snake Contribution Graph
         run: |
           mkdir -p output
           mv dist/github-contribution-grid-snake.svg output/
           git config --global user.name "GitHub Actions Bot"
-          git config --global user.email "<>"
+          git config --global user.email "actions@github.com"
           git add output/
           git commit -m "Generated Snake Contribution Graph" || echo "No changes to commit"
-          git push origin main || echo "No changes to push"
+          git push origin master || echo "No changes to push"
