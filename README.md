@@ -16,7 +16,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [University of Rochester](http://suez.edu.eg/ar/).
+- :school: I am a `Junior` at [University of Rochester](https://www.rochester.edu/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
