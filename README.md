@@ -33,7 +33,7 @@
 	<img src = "https://github.com/FrogInDizzy/FrogInDizzy/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-## 🛠️ My Skills
+## My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
