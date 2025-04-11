@@ -10,7 +10,7 @@
 <br>
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## 👋 About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -22,7 +22,7 @@
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.overleaf.com/read/qvwhybhzymdw#dc55bd)
-- 📫 Reach out to me at: <a href="wgao11@u.rochester.edu">wgao11@u.rochester.edu</a>
+- 📫 Feel free reach out to me at: <a href="wgao11@u.rochester.edu">wgao11@u.rochester.edu</a>
 
 <br>
 
