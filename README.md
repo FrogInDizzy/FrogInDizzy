@@ -22,7 +22,7 @@
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.overleaf.com/read/qvwhybhzymdw#dc55bd)
-- 📫 Feel free reach out to me at: <a href="wgao11@u.rochester.edu">wgao11@u.rochester.edu</a>
+- 📫 Feel free reach out to me at: <a href="edwin.gao28 [at] rochester [dot] edu">wgao11@u.rochester.edu</a>
 
 <br>
 
