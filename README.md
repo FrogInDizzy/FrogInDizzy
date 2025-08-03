@@ -21,7 +21,7 @@
 - :computer: I am a competitive programmer at `Codeforces` `Leetcode`, `Codechef`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- 📫 Feel free reach out to me at: edwin [at] gao28 [at] gmail [dot] com</a>
+- 📫 Feel free reach out to me at: edwin [dot] gao28 [at] gmail [dot] com</a>
 
 <br>
 
