@@ -16,7 +16,7 @@
 
 <br><br>
 
-- :school: I am a `Senior` at [University of Rochester](https://www.rochester.edu/). Currently I am doing SWE internship at [Ticketmaster](https://www.ticketmaster.com/)
+- :school: I am a `Senior` at [University of Rochester](https://www.rochester.edu/). Currently I am doing `SWE internship` at [Ticketmaster](https://www.ticketmaster.com/)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces` `Leetcode`, `Codechef`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
